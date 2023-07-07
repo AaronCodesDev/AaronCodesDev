@@ -1,6 +1,6 @@
 # 💫 About Me:
 
- 🙋‍♂ I'm Aarón<br> 👀 I am interested in learning<br>🌱 I am currently self-taught <a href="[url](https://www.python.org/)">Python</a> <br>👯 I am looking to collaborate within my abilities<br>💬 Ask me about<br>⚡ Come on!
+ 🙋‍♂ I'm Aarón<br> 👀 I am interested in learning<br>🌱 I am currently self-taught Python <br>👯 I am looking to collaborate within my abilities<br>💬 Ask me about<br>⚡ Come on!
 
 
 ## 🌐 Socials:

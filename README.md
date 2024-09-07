@@ -1,20 +1,104 @@
-# 💫 About Me:
+<div align="center">
+    <img height="350" src="https://i.imgur.com/qBnFylp.gif" />
+</div>
 
- 🙋‍♂ I'm Aarón<br> 👀 I am interested in learning<br>🌱 I am currently self-taught Python <br>👯 I am looking to collaborate within my abilities<br>💬 Ask me about<br>⚡ Come on!
+###
+
+<br clear="both">
+
+<h2 align="center">Hi 👋! My name is Aaron and I'm a from Barcelona</h2>
+
+###
+
+<p align="center">👀 I am interested in learning<br>🌱 I am currently self-taught Python<br>👯 I am looking to collaborate
+    within my abilities<br>💬 Ask me about<br>⚡ Come on!</p>
+
+###
+
+<h2 align="center">🌐 Socials:</h2>
+
+###
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/aaron-planas/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+            width="42" height="30" alt="linkedin logo" />
+    </a>
+    <a href="https://www.instagram.com/fantan_8j/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+            width="42" height="30" alt="instagram logo" />
+    </a>
+    <a href="Fantan#3170" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+            width="42" height="30" alt="discord logo" />
+    </a>
+    <a href="https://x.com/Fantan_" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+            width="42" height="30" alt="twitter logo" />
+    </a>
+    <a href="https://www.twitch.tv/fantan" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg"
+            width="42" height="30" alt="twitch logo" />
+    </a>
+</div>
+
+###
+
+<h2 align="center">💻 Tech Stack:</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
+        alt="python logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30"
+        alt="anaconda logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"
+        alt="flask logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
+        alt="html5 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30"
+        alt="jupyter logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30"
+        alt="msdos logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"
+        alt="pandas logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30"
+        alt="pycharm logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"
+        alt="sqlite logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30"
+        alt="sqlalchemy logo" />
+</div>
+
+###
+<div align="center">
+
+  ## 📊 GitHub Stats
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/218047000761991168) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Fantan_8J) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-planas-2b44b2253/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Fantan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fantan_) 
+  <img src="https://github-readme-stats.vercel.app/api?username=MrFantan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFantan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MrFantan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrFantan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrFantan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFantan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app?username=MrFantan&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrFantan&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
+###
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrFantan&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -22,8 +106,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MrFantan&icon=0&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fantan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fantan) 
+  ## ☕ Can you help me. I need caffeine.
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fantan) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<img align="right" height="200" src="https://i.imgur.com/cyvElNM.png" />
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/MrFantan/MrFantan/output/snake.svg" alt="Snake animation" />
+
+###

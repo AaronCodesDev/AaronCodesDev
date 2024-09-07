@@ -111,15 +111,12 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+![snake gif](https://github.com/MrFantan/MrFantan/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/cyvElNM.png" />
-
-
-
-###
-
-<img src="https://raw.githubusercontent.com/MrFantan/MrFantan/output/snake.svg" alt="Snake animation" />
+<img align="center" height="200" src="https://i.imgur.com/cyvElNM.png" />
 
 ###

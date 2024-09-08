@@ -1,16 +1,16 @@
 <div align="center">
     <img height="350" src="https://i.imgur.com/qBnFylp.gif" />
+    
 </div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrFantan.MrFantan&left_color=Fuchsia&right_color=blue" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Aaron+Planas!;and+I+like+Coffee☕!!";/>
+    
+<h3 align="center">Hi 👋! A passionate software developer from Barcelona </h2>
 
-###
+<br/>
 
-<br clear="both">
-
-<h2 align="center">Hi 👋! My name is Aaron and I'm a from Barcelona</h2>
-
-###
-
-<p align="center">👀 I am interested in learning<br>🌱 I am currently self-taught Python<br>👯 I am looking to collaborate
+<p align="center">👀 I am interested in learning<br>🌱 I’m currently learning Python<br>👯 I am looking to collaborate
     within my abilities<br>💬 Ask me about<br>⚡ Come on!</p>
 
 ###
@@ -19,70 +19,42 @@
 
 ###
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/aaron-planas/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-            width="42" height="30" alt="linkedin logo" />
-    </a>
-    <a href="https://www.instagram.com/fantan_8j/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-            width="42" height="30" alt="instagram logo" />
-    </a>
-    <a href="Fantan#3170" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-            width="42" height="30" alt="discord logo" />
-    </a>
-    <a href="https://x.com/Fantan_" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-            width="42" height="30" alt="twitter logo" />
-    </a>
-    <a href="https://www.twitch.tv/fantan" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg"
-            width="42" height="30" alt="twitch logo" />
-    </a>
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:aaronpla@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://www.linkedin.com/in/aaron-planas]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
-###
+ <hr/>
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h2 align="center">💻 Languages-Frameworks-Tools 💻 :</h2>
 
-###
-
-<br clear="both">
-
+<br/>
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
-        alt="python logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30"
-        alt="anaconda logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"
-        alt="flask logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
-        alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30"
-        alt="jupyter logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30"
-        alt="msdos logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"
-        alt="pandas logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30"
-        alt="pycharm logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"
-        alt="sqlite logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30"
-        alt="sqlalchemy logo" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,anaconda,apple,discord,notion,windows" />
+    <br/>
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,flask,sqlite" /><br>
+    </div>
 </div>
 
-###
+ <hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrFantan/MrFantan/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
+
+<hr/> 
 <div align="center">
 
   ## 📊 GitHub Stats
@@ -95,28 +67,7 @@
   ## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app?username=MrFantan&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+<hr/>
 
-
-###
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrFantan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MrFantan&icon=0&color=5)](https://visitcount.itsvg.in)
-
-  ## ☕ Can you help me. I need caffeine.
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fantan) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
-
-![snake gif](https://github.com/MrFantan/MrFantan/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<img align="center" height="200" src="https://i.imgur.com/cyvElNM.png" />
-
-###
+<div align="center">
+  <a href="https://www.buymeacoffee.com/Fantan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
